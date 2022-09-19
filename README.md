@@ -1,6 +1,7 @@
-![MasterHead](https://c8.alamy.com/comp/2F8G5KD/web-development-and-coding-concept-web-banner-with-copy-space-on-purple-background-flat-lay-illustration-of-a-programmer-workspace-2F8G5KD.jpg)
 
-<h1 align="center">Hi 👋, I'm Deepak</h1>
+![MasterHead]( https://www.name-doctor.com/nomi.png/45226.png)
+
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
@@ -12,7 +13,7 @@
 
 - 💬 Ask me about **react , HTML , CSS **
 
-- 📫 How to reach me **deepakahlawat@gmail.com**
+- 📫 How to reach me **deepakahlawat735729@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
