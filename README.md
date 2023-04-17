@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/@sahilku02860412?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Full Stack Web Developer**
 
-- 💬 Ask me about **react , HTML , CSS **
+- 💬 Ask me about **react , HTML , CSS , JavaScript , TypeScript, Storybook**
 
 - 📫 How to reach me **deepakahlawat735729@gmail.com**
 
