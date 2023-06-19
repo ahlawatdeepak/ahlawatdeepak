@@ -1,13 +1,10 @@
-
-![MasterHead]( https://www.name-doctor.com/nomi.png/45226.png)
-
 <h1 align="center">Hi 👋 </h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlawatdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/@sahilku02860412?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/@deepak02860412?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
 
 - 🌱 I’m a **Full Stack Web Developer**
 
