@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+<h1 align="center">Hi 👋, I am Deepak Ahlawat </h1>
+<h3 align="center">I am a Fullstack developer with 1 year of experience in React, Node, JavaScript, TypeScript, NextJs and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlawatdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/@deepak02860412?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahlawatdeepak" alt="Deepak Ahlawat" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+
+<p align="left"> <a href="https://twitter.com/DeepakDe4226" target="blank"><img src="https://img.shields.io/twitter/follow/@DeepakDe4226?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
 
 - 🌱 I’m a **Full Stack Web Developer**
 
@@ -15,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ahlawatdeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Deepak" height="30" width="40" /></a>
-<a href="https://github.com/ahlawatdeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deepak" height="30" width="40" /></a>
+<a href="https://twitter.com/DeepakDe4226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deepak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/deepak-ahlawat-8b5473233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak" height="30" width="40" /></a>
 <a href="https://codesandbox.io/dashboard/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Deepak" height="30" width="40" /></a>
 </p>
