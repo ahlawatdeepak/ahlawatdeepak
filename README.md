@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Full Stack Web Developer**
 
-- 💬 Ask me about **react , HTML , CSS , JavaScript , TypeScript, Storybook**
+- 💬 Ask me about **React , HTML , CSS , JavaScript , TypeScript, Storybook , NodeJs**
 
 - 📫 How to reach me **deepakahlawat735729@gmail.com**
 
