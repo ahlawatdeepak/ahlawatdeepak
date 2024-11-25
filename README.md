@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Deepak Ahlawat </h1>
-<h3 align="center">I am a Fullstack developer with 2 year of experience in React, Node, JavaScript, TypeScript, NextJs and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
+<h3 align="center">I am a Fullstack developer with 2 year of experience in React, Node, JavaScript, TypeScript, NextJs, AWS, Terraform and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlawatdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> </p>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Full Stack Web Developer**
 
-- 💬 Ask me about **React , HTML , CSS , JavaScript , TypeScript, Storybook , NodeJs**
+- 💬 Ask me about **React , HTML , CSS , JavaScript , TypeScript, Storybook , NodeJs, AWS**
 
 - 📫 How to reach me **deepakahlawat735729@gmail.com**
 
